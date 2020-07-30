@@ -79,11 +79,11 @@ test {
 
 azureWebApp {
 	resourceGroup = 'demo_app'
-	appName = 'demo-app-react'
+	appName = 'demoSpringReact'
 	pricingTier = 'S1'
-	region = 'eastus2'
+	region = 'central-us'
 	appService = {
-		type = 'windows'
+		type = 'linux'
 		javaVersion = 'jre8'
 		runtimeStack = 'jre8'
 	}

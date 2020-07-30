@@ -1,3 +1,5 @@
 # Deploying a Spring Boot & React App to Azure
 
-In this tutorial, I'll demonstrate how to make our Spring Boot application with React work on the Azure platform, step by step.
+Here's the complete article on how to:
+https://medium.com/@mannan77980/deploying-a-spring-boot-react-app-to-azure-5b4d844a8d35
+
